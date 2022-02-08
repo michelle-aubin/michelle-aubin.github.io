@@ -1,12 +1,14 @@
 AUTHOR = 'Michelle'
 SITENAME = 'Mich Site'
-SITEURL = ''
+SITEURL = 'https://michelle-aubin.github.io/'
 
 PATH = 'content'
 
 TIMEZONE = 'America/Edmonton'
 
 DEFAULT_LANG = 'en'
+
+THEME = 'templates/mytheme'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
